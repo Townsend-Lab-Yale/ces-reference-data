@@ -1,0 +1,20 @@
+Package: ces.refset.hg19
+Title: Reference data set (hg19) for cancereffectsizeR package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jeffrey",
+           family = "Mandell",
+           role = c("aut", "cre"),
+           email = "jeff.mandell@yale.edu",
+           comment = c(ORCID = "0000-0002-3839-2543"))
+Description: A collection of reference data ready to be used with cancereffectsizeR in projects that use the hg19/GRCh37 builds of the human genome.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 3.5)
+Imports:
+  cancereffectsizeR (>= 2.0)
+
