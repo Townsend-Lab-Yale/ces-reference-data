@@ -1,2 +1,2 @@
-# ces-reference-data
-This repository hosts pre-generated reference data sets (*ref_sets*) that are ready to use with [cancereffectsizeR](https://townsend-lab-yale.github.io/cancereffectsizeR/). Each ref set stored here is its own R package. (See cancereffectsizeR for scripts and documentation on creating your own ref_sets.)
+# ces.refset.hg19
+This is an R data package holding a pre-generated reference data set (*refset*) that is ready to use with [cancereffectsizeR](https://townsend-lab-yale.github.io/cancereffectsizeR/). See cancereffectsizeR's documentation for information on how to install and use this data set, as well as how to create your own custom refsets. 
