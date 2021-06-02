@@ -1,6 +1,6 @@
 Package: ces.refset.hg19
 Title: Reference data set (hg19) for cancereffectsizeR package
-Version: 1.1.0
+Version: 1.1.1
 Authors@R: 
     person(given = "Jeff",
            family = "Mandell",
