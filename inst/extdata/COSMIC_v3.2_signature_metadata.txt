@@ -3,7 +3,7 @@ SBS1	Spontaneous deamination of 5-methylcytosine	FALSE
 SBS2	APOBEC	FALSE		
 SBS3	Defective homologous recombination DNA damage repair	FALSE		
 SBS4	Tobacco smoking	FALSE		
-SBS5	"Unknown, clock-like"	FALSE		
+SBS5	Unknown, clock-like	FALSE		
 SBS6	Defective DNA mismatch repair	FALSE	200	10000
 SBS7a	UV light	FALSE		
 SBS7b	UV light	FALSE		
@@ -14,7 +14,7 @@ SBS9	Polymerase eta somatic hypermutation	FALSE
 SBS10a	Polymerase epsilon	FALSE	2000	100000
 SBS10b	Polymerase epsilon	FALSE	2000	100000
 SBS10c	Defective POLD1 proofreading	FALSE		
-SBS10d	Adenoma from individuals with germline POLD1 exonuclease domain mutations	FALSE		
+SBS10d	Defective POLD1 proofreading	FALSE		
 SBS11	Temozolomide treatment	FALSE		
 SBS12	Unknown	FALSE		
 SBS13	APOBEC	FALSE		

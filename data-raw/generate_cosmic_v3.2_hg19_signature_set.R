@@ -1,7 +1,7 @@
 library(data.table)
 library(cancereffectsizeR)
 
-# downloaded 08-09-20
+# downloaded 06-02-21
 #run from ces.refset.hg19 directory
 cosmic = fread("inst/extdata/COSMIC_SBS_v3-2.txt")
 metadata = fread("inst/extdata/COSMIC_v3.2_signature_metadata.txt")
