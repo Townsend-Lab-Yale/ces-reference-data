@@ -1,7 +1,7 @@
 Signature	Etiology	Likely_Artifact	Exome_Min	Genome_Min
-SBS1	Deamination with age	FALSE		
+SBS1	Spontaneous deamination of 5-methylcytosine	FALSE		
 SBS2	APOBEC	FALSE		
-SBS3	Defective homologous recombination	FALSE		
+SBS3	Defective homologous recombination DNA damage repair	FALSE		
 SBS4	Tobacco smoking	FALSE		
 SBS5	"Unknown, clock-like"	FALSE		
 SBS6	Defective DNA mismatch repair	FALSE	200	10000
