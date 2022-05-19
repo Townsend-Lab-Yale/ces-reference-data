@@ -3,4 +3,7 @@ This is an R data package holding a pre-generated reference data set (*refset*) 
 
 After installing cancereffectsizeR, install the latest release like this:
 
-`remotes::install_github("Townsend-Lab-Yale/ces.refset.hg19@*release")`
+```
+options(timeout = 600)
+remotes::install_github("Townsend-Lab-Yale/ces.refset.hg19@*release")
+```
