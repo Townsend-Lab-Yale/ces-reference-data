@@ -1,3 +1,6 @@
+# ces.refset.hg19 1.1.2
+* Added BSgenome.Hsapiens.UCSC.hg19 dependency to DESCRIPTION.
+
 # ces.refset.hg19 1.1.1
 * Added version 3.2 mutational signatures from COSMIC.
 

@@ -1,6 +1,6 @@
 Package: ces.refset.hg19
 Title: Reference data set (hg19) for cancereffectsizeR package
-Version: 1.1.1
+Version: 1.1.2
 Authors@R: 
     person(given = "Jeff",
            family = "Mandell",
@@ -13,8 +13,10 @@ Encoding: UTF-8
 LazyData: false
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+biocViews:
 Depends: 
     R (>= 3.5)
 Imports:
-  cancereffectsizeR (>= 2.1)
+  cancereffectsizeR (>= 2.1),
+  BSgenome.Hsapiens.UCSC.hg19
 
