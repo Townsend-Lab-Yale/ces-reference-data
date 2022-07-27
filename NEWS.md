@@ -1,3 +1,6 @@
+# ces.refset.hg19 1.1.3
+* A tweak to ensure package can load without an internet connection.
+
 # ces.refset.hg19 1.1.2
 * Added BSgenome.Hsapiens.UCSC.hg19 dependency to DESCRIPTION.
 
